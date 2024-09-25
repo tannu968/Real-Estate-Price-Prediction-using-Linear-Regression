@@ -35,12 +35,11 @@ price: Target price in lacs
 Model Explanation
 The model uses Linear Regression to predict property prices based on the SQUARE_FT feature. After fitting the model with the dataset, predictions can be made for different square footage values.
 
-Results
+## Results
 The script will print the predicted prices for properties with square footage of 1500 and 2000 square feet, along with the model's coefficient and intercept.
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to submit a pull request or raise an issue for improvements.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details
+
 
